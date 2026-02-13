@@ -1,5 +1,3 @@
-import { useRef } from "react";
-import { NavLink } from "react-router-dom";
 import { Send } from "lucide-react";
 
 

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Camera, Film, Palette, Code, Music, Users, Star, TrendingUp, Award, ArrowRight } from 'lucide-react';
 
 export default function Services() {
